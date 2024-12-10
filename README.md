@@ -1,4 +1,4 @@
-# Matthewlindsey Tap
+# Personal Tap
 
 ## How do I install these formulae?
 
